@@ -2,7 +2,7 @@
 
 This is my reproduced AutoEncoder and variational AutoEncoder by the Pytorch. If you find any errors or questions, please tell me.
 
-1. There are three tasks used to evaluate the effect of graph embedding, i.e., node clustering, node classification, and graph Visualization.
+1. There are three tasks used to evaluate the effect of graph embedding, i.e., node clustering, node classification, and graph visualization.
 
 2. Algorithms used in the tasks.
       Clustering：k-means; Classification: SVM; Visualization: t-SNE;
